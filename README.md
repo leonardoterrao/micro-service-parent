@@ -1,4 +1,7 @@
 # Microservice Parent
+
+This isn't a microservice project, it's only a dependency that we need to use in microservice example projects.
+
 ## Microservices example
 
 This is a very simple implementation about a project that works with microserives.
